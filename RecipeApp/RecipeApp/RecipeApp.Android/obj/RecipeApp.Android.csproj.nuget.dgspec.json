@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj": {}
+    "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj": {
+    "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj",
         "projectName": "RecipeApp.Android",
-        "projectPath": "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj",
+        "projectPath": "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp.Android\\RecipeApp.Android.csproj",
         "packagesPath": "C:\\Users\\muzra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj": {
-                "projectPath": "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj"
+              "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj": {
+                "projectPath": "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj": {
+    "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj",
+        "projectUniqueName": "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj",
         "projectName": "RecipeApp",
-        "projectPath": "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj",
+        "projectPath": "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp\\RecipeApp.csproj",
         "packagesPath": "C:\\Users\\muzra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muzra\\source\\repos\\RecipeApp\\RecipeApp\\RecipeApp\\obj\\",
+        "outputPath": "C:\\Users\\muzra\\Documents\\GitHub\\Recipe_App\\RecipeApp\\RecipeApp\\RecipeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -106,6 +106,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.6.0.1141, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

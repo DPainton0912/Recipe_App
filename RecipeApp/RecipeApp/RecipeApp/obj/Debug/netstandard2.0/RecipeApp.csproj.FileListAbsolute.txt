@@ -1,0 +1,7 @@
+C:\Users\muzra\Documents\GitHub\Recipe_App\RecipeApp\RecipeApp\RecipeApp\bin\Debug\netstandard2.0\RecipeApp.deps.json
+C:\Users\muzra\Documents\GitHub\Recipe_App\RecipeApp\RecipeApp\RecipeApp\bin\Debug\netstandard2.0\RecipeApp.dll
+C:\Users\muzra\Documents\GitHub\Recipe_App\RecipeApp\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.csprojAssemblyReference.cache
+C:\Users\muzra\Documents\GitHub\Recipe_App\RecipeApp\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Recipe_App\RecipeApp\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Recipe_App\RecipeApp\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\muzra\Documents\GitHub\Recipe_App\RecipeApp\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.AssemblyInfo.cs
