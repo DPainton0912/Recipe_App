@@ -7,15 +7,15 @@
         <ToolbarItem Text="+"
                      Clicked="OnRecipeAddedClicked" />
     </ContentPage.ToolbarItems>
-    <!--<ListView x:Name="listView"
+    <ListView x:Name="listView"
               Margin="20"
               ItemSelected="OnListViewItemSelected">
         <ListView.ItemTemplate>
             <DataTemplate>
-                <TextCell Text="{Binding Text}"
-                          Detail="{Binding Date}" />
+                <TextCell Text="{Binding Title}"
+                          Detail="{Binding CreatedBy}" />
             </DataTemplate>
         </ListView.ItemTemplate>
-    </ListView>-->
+    </ListView>
 
 </ContentPage>

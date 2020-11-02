@@ -7,9 +7,10 @@ using RecipeApp.Models;
 
 namespace RecipeApp.Data
 {
-    class RecipeDatabase
+    public class RecipeDatabase
     {
         readonly SQLiteAsyncConnection _database;
+
         public RecipeDatabase(string dbPath)
         {
             _database = new SQLiteAsyncConnection(dbPath);
